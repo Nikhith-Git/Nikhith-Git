@@ -24,13 +24,13 @@ Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physic
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-E60026?style=for-the-badge&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/SystemVerilog-7B1FA2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivado-1E1E4B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vitis_HLS-6F2DBD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenROAD-161032?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Icarus_Verilog-D50032?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Verilator-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
