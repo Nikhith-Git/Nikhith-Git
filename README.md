@@ -42,47 +42,55 @@ Currently exploring:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Nikhith-Git/rv32i-pipeline"><b>RV32I 5-Stage Pipelined Processor</b></a><br/>
-      5-stage pipelined RISC-V processor in Verilog with hazard detection, data forwarding, and full pipeline control.<br/>
-      <code>Verilog</code> <code>Pipeline</code> <code>Hazard Detection</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Nikhith-Git/i2c-master"><b>I2C Master Controller</b></a><br/>
-      FSM-based I2C master controller designed for FPGA implementation with full simulation and verification flow.<br/>
-      <code>Verilog</code> <code>FSM</code> <code>FPGA</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Nikhith-Git/face-recognition-door-lock"><b>Face Recognition Door Lock</b></a><br/>
-      Real-time face recognition system using OpenCV for secure door access control.<br/>
-      <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Nikhith-Git/hdlbits-solutions"><b>HDLBits Solutions</b></a><br/>
-      100+ Verilog problems covering digital logic, FSMs, and interview-style design questions.<br/>
-      <code>Verilog</code> <code>Digital Logic</code> <code>Practice</code>
-    </td>
-  </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ <a href="https://github.com/Nikhith-Git/RISC_TEST">RISC-V 32I Processor</a>
+
+5-stage pipelined **RV32I processor** written in Verilog featuring forwarding, hazard detection, control hazard handling, and a modular RTL architecture for FPGA implementation.
+
+`Verilog` `RISC-V` `Pipeline` `RTL Design`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📐 <a href="https://github.com/Nikhith-Git/CORDIC-Algorithm-Implementation-on-Verilog">CORDIC Algorithm Implementation</a>
+
+Hardware implementation of the **CORDIC algorithm** in Verilog for efficient trigonometric and mathematical computations without multipliers.
+
+`Verilog` `CORDIC` `Digital Design`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ➕ <a href="https://github.com/Nikhith-Git/8bit_floating_point_ALU">8-bit Floating Point ALU</a>
+
+Custom IEEE-inspired **8-bit Floating Point ALU** supporting arithmetic operations with dedicated floating-point datapath design and verification.
+
+`Verilog` `Floating Point` `ALU`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 <a href="https://github.com/Nikhith-Git/I2C_MASTER">I2C Master Controller</a>
+
+FSM-based **I2C Master Controller** developed during my **NIT Rourkela Summer Research Internship**, including protocol implementation, simulation, and FPGA-ready RTL.
+
+`Verilog` `FSM` `I2C` `FPGA`
+
+</td>
+</tr>
+
 </table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikhith-Git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhith-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhith-Git&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
 
 ## Most Used Languages
 
