@@ -97,9 +97,6 @@ FSM-based **I2C Master Controller** developed during my **NIT Rourkela Summer Re
 
 </table>
 
-## Most Used Languages
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhith-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Connect With Me
 
