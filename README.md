@@ -38,51 +38,30 @@ Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physic
 ## 🚀 Featured Projects
 
 <table>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ <a href="https://github.com/Nikhith-Git/RISC_TEST">RISC-V 32I Processor</a>
-
-5-stage pipelined **RV32I processor** written in Verilog featuring forwarding, hazard detection, control hazard handling, and a modular RTL architecture for FPGA implementation.
-
-`Verilog` `RISC-V` `Pipeline` `RTL Design`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📐 <a href="https://github.com/Nikhith-Git/CORDIC-Algorithm-Implementation-on-Verilog">CORDIC Algorithm Implementation</a>
-
-Hardware implementation of the **CORDIC algorithm** in Verilog for efficient trigonometric and mathematical computations without multipliers.
-
-`Verilog` `CORDIC` `Digital Design`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ➕ <a href="https://github.com/Nikhith-Git/8bit_floating_point_ALU">8-bit Floating Point ALU</a>
-
-Custom IEEE-inspired **8-bit Floating Point ALU** supporting arithmetic operations with dedicated floating-point datapath design and verification.
-
-`Verilog` `Floating Point` `ALU`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔗 <a href="https://github.com/Nikhith-Git/I2C_MASTER">I2C Master Controller</a>
-
-FSM-based **I2C Master Controller** developed during my **NIT Rourkela Summer Research Internship**, including protocol implementation, simulation, and FPGA-ready RTL.
-
-`Verilog` `FSM` `I2C` `FPGA`
-
-</td>
-</tr>
-
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/Nikhith-Git/RISC_TEST">RISC-V 32I Processor</a></h3>
+      5-stage pipelined <b>RV32I</b> processor with forwarding, hazard detection & modular RTL architecture.<br/><br/>
+      <code>Verilog</code> <code>RISC-V</code> <code>Pipeline</code> <code>RTL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📐 <a href="https://github.com/Nikhith-Git/CORDIC-Algorithm-Implementation-on-Verilog">CORDIC Algorithm</a></h3>
+      Hardware implementation of the <b>CORDIC</b> algorithm for efficient trigonometric computations without multipliers.<br/><br/>
+      <code>Verilog</code> <code>CORDIC</code> <code>Digital Design</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>➕ <a href="https://github.com/Nikhith-Git/8bit_floating_point_ALU">8-bit Floating Point ALU</a></h3>
+      Custom IEEE-inspired <b>8-bit Floating Point ALU</b> with dedicated datapath design and verification.<br/><br/>
+      <code>Verilog</code> <code>Floating Point</code> <code>ALU</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/Nikhith-Git/I2C_MASTER">I2C Master Controller</a></h3>
+      FSM-based <b>I2C Master</b> developed during NIT Rourkela Summer Research Internship. FPGA-ready RTL.<br/><br/>
+      <code>Verilog</code> <code>FSM</code> <code>I2C</code> <code>FPGA</code>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
