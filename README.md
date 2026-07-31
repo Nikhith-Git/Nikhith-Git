@@ -10,8 +10,6 @@
 
 <br/>
 
----
-
 ## About Me
 
 I'm an **Electronics and Communication Engineering** student specializing in **VLSI Design**, with a strong focus on:
