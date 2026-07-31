@@ -86,14 +86,9 @@ Currently exploring:
   <img src="https://streak-stats.demolab.com?user=Nikhith-Git&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikhith-Git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhith-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
-</p>
+## Most Used Languages
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhith-Git&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhith-Git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Connect With Me
 
