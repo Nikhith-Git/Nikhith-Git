@@ -18,9 +18,7 @@ Currently exploring:
 
 - RTL Design using Verilog/SystemVerilog
 - FPGA Implementation
-- RISC-V Processor Design
 - Physical Design (OpenROAD/OpenLane)
-- Digital IC Verification
 
 ---
 
@@ -48,7 +46,6 @@ Currently exploring:
 ```text
 Verilog
 SystemVerilog
-VHDL
 C
 Python
 ```
@@ -62,9 +59,7 @@ Vivado
 ModelSim
 GTKWave
 OpenROAD
-OpenLane
 Git
-VS Code
 Linux
 ```
 
@@ -77,9 +72,7 @@ Linux
 - ASIC Design
 - FPGA Development
 - Computer Architecture
-- RISC-V
 - Physical Design
-- Verification
 
 ---
 
