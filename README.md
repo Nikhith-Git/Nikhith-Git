@@ -12,22 +12,10 @@
 
 ## About Me
 
-<p align="center">
-  Electronics & Communication Engineering student specializing in <b>VLSI Design</b><br/>
-  Passionate about building digital hardware from RTL to silicon.
-</p>
+**Electronics & Communication Engineering** student specializing in **VLSI Design**.  
+Passionate about **RTL Design**, **FPGA Prototyping**, **Computer Architecture**, and **ASIC Design Flow**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RTL-Design-E60026?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FPGA-Prototyping-7B1FA2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer-Architecture-1E88E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ASIC-Design-00897B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Physical-Design-5D001E?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Currently+exploring+Verilog+%26+SystemVerilog;FPGA+Implementation;Physical+Design+(OpenROAD+%2F+OpenLane)" />
-</p>
+Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physical Design (**OpenROAD / OpenLane**).
 
 ---
 
