@@ -44,32 +44,6 @@ Currently exploring:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## Programming Languages & Tools
-
-| Languages          | Tools                          |
-|--------------------|--------------------------------|
-| Verilog            | Vivado                         |
-| SystemVerilog      | ModelSim                       |
-| C                  | GTKWave                        |
-| Python             | OpenROAD / OpenLane            |
-|                    | Icarus Verilog / Verilator     |
-|                    | Git & Linux                    |
-
----
-
-## Areas of Interest
-
-- RTL Design  
-- Digital Logic Design  
-- ASIC Design  
-- FPGA Development  
-- Computer Architecture  
-- Physical Design  
-
----
-
 ## Featured Projects
 
 <table>
