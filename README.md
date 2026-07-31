@@ -34,6 +34,17 @@ Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physic
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+## 🚧 Currently Working On
+
+<table>
+  <tr>
+    <td>
+      <h3>🤖 <a href="https://github.com/Nikhith-Git/AI_HARDWARE_ACCERLATOR">AI Hardware Accelerator</a></h3>
+      Designing a hardware accelerator for AI inference and FPGA implementation.<br/><br/>
+      <code>Verilog</code> <code>AI Accelerator</code> <code>RTL</code> <code>FPGA</code>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
