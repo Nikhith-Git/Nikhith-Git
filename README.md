@@ -1,140 +1,168 @@
 <div align="center">
 
-# Hi 👋, I'm Nikhith
+# Nikhith Gurram
 
-### 💻 RTL Design | FPGA | Verilog | RISC-V | ASIC Design Enthusiast
+### RTL Design • FPGA • VLSI • ASIC Design
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;RTL+Design+%7C+FPGA+Developer;Verilog+%7C+SystemVerilog+%7C+RISC-V;Future+ASIC+Design+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Electronics+%26+Communication+Engineer;RTL+Design+Engineer;FPGA+Developer;RISC-V+Processor+Design;Future+ASIC+Engineer" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 B.Tech in Electronics & Communication Engineering (VLSI)
+I'm an Electronics and Communication Engineering student specializing in **VLSI Design** with a strong interest in **Digital Design**, **RTL Development**, **Computer Architecture**, **FPGA Prototyping**, and **ASIC Design Flow**.
 
-🏫 SRM University AP
+Currently exploring:
 
-💡 Passionate about
+- RTL Design using Verilog/SystemVerilog
+- FPGA Implementation
+- RISC-V Processor Design
+- Physical Design (OpenROAD/OpenLane)
+- Digital IC Verification
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Verilog-E60026?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-5D001E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vivado-1E1E4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vitis_HLS-6F2DBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenROAD-161032?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Icarus_Verilog-D50032?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilator-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+## Programming Languages
+
+```text
+Verilog
+SystemVerilog
+VHDL
+C
+Python
+```
+
+---
+
+## Tools
+
+```text
+Vivado
+ModelSim
+GTKWave
+OpenROAD
+OpenLane
+Git
+VS Code
+Linux
+```
+
+---
+
+## Areas of Interest
 
 - RTL Design
-- Digital IC Design
+- Digital Logic Design
+- ASIC Design
 - FPGA Development
 - Computer Architecture
-- ASIC Physical Design
-
-🌱 Currently Learning
-
-- SystemVerilog
-- Advanced RTL Design
-- OpenLane RTL-to-GDS
-- STA & Physical Design
+- RISC-V
+- Physical Design
+- Verification
 
 ---
 
-## 🛠 Tech Stack
+## Featured Projects
 
-### Languages
+### RV32I 5-Stage Pipelined Processor
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux"/>
-</p>
+• Verilog RTL
 
-### Hardware
+• Hazard Detection Unit
 
-<p>
+• Forwarding Unit
 
-![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FFB000?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-00599C?style=for-the-badge)
-
-</p>
+• Pipeline Registers
 
 ---
 
-# 📌 Featured Projects
+### I2C Master Controller
 
-## 🚀 RV32I 5-Stage Pipelined Processor
+• FSM Based Design
 
-✔ Verilog RTL
+• FPGA Implementation
 
-✔ Hazard Detection Unit
-
-✔ Forwarding Unit
-
-✔ Pipeline Registers
-
-✔ Testbench Verification
+• Simulation & Verification
 
 ---
 
-## ⚡ I2C Master Controller
+### Face Recognition Door Lock
 
-✔ FSM-Based Design
+• Python
 
-✔ Verilog
+• OpenCV
 
-✔ FPGA Implementation
-
-✔ Simulation
+• Real-Time Recognition
 
 ---
 
-## 🤖 Face Recognition Door Lock
+### HDLBits Solutions
 
-✔ Python
+100+ Verilog Problems
 
-✔ OpenCV
+Digital Logic Practice
 
-✔ Real-Time Recognition
-
----
-
-## 🧠 HDLBits Solutions
-
-✔ 100+ Digital Logic Problems
-
-✔ Verilog Practice
-
-✔ Interview Preparation
+Interview Preparation
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhith-Git&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikhith-Git&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhith-Git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhith-Git&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikhith-Git&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nikhith-Git&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-link">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/nikhith-gurram/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.instagram.com/thenik.fx/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -143,8 +171,8 @@
 
 <div align="center">
 
-### ⭐ "Designing Digital Hardware, One Flip-Flop at a Time."
+> Designing Digital Hardware, One Flip-Flop at a Time.
 
-<img src="https://komarev.com/ghpvc/?username=Nikhith-Git&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Nikhith-Git&style=flat-square&color=blue"/>
 
 </div>
