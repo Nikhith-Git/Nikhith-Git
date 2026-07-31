@@ -15,7 +15,7 @@
 **Electronics & Communication Engineering** student specializing in **VLSI Design**.  
 Passionate about **RTL Design**, **FPGA Prototyping**, **Computer Architecture**, and **ASIC Design Flow**.
 
-Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physical Design (**OpenROAD / OpenLane**).
+Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physical Design (**OpenROAD / OpenLane**) TAdahhhhh my Favourite.
 
 ---
 
