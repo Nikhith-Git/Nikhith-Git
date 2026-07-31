@@ -4,7 +4,7 @@
 
 ### RTL Design • FPGA • VLSI • ASIC Design
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Electronics+%26+Communication+Engineer;RTL+Design+Engineer;FPGA+Developer;RISC-V+Processor+Design;Future+ASIC+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Electronics+%26+Communication+Engineer;RTL+Design+Engineer;FPGA+Developer;Future+PD+Engineer" />
 
 </div>
 
