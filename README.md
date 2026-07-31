@@ -72,25 +72,32 @@ Currently exploring:
 
 ## Featured Projects
 
-### RV32I 5-Stage Pipelined Processor
-- Verilog RTL  
-- Hazard Detection Unit  
-- Forwarding Unit  
-- Pipeline Registers  
-
-### I2C Master Controller
-- FSM Based Design  
-- FPGA Implementation  
-- Simulation & Verification  
-
-### Face Recognition Door Lock
-- Python + OpenCV  
-- Real-Time Recognition  
-
-### HDLBits Solutions
-- 100+ Verilog Problems  
-- Digital Logic Practice  
-- Interview Preparation  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Nikhith-Git/rv32i-pipeline"><b>RV32I 5-Stage Pipelined Processor</b></a><br/>
+      5-stage pipelined RISC-V processor in Verilog with hazard detection, data forwarding, and full pipeline control.<br/>
+      <code>Verilog</code> <code>Pipeline</code> <code>Hazard Detection</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Nikhith-Git/i2c-master"><b>I2C Master Controller</b></a><br/>
+      FSM-based I2C master controller designed for FPGA implementation with full simulation and verification flow.<br/>
+      <code>Verilog</code> <code>FSM</code> <code>FPGA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Nikhith-Git/face-recognition-door-lock"><b>Face Recognition Door Lock</b></a><br/>
+      Real-time face recognition system using OpenCV for secure door access control.<br/>
+      <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Nikhith-Git/hdlbits-solutions"><b>HDLBits Solutions</b></a><br/>
+      100+ Verilog problems covering digital logic, FSMs, and interview-style design questions.<br/>
+      <code>Verilog</code> <code>Digital Logic</code> <code>Practice</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
