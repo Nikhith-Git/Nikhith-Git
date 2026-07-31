@@ -76,8 +76,3 @@ Currently exploring **Verilog / SystemVerilog**, FPGA Implementation, and Physic
   </tr>
 </table>
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Nikhith-Git&style=flat-square&color=58A6FF"/>
-  
-</div>
